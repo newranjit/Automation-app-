@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Connecting bus traces -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,36 L54,42 M54,66 L54,72 M36,54 L42,54 M66,54 L72,54" />
+
+    <!-- Corner sub-traces for high-tech aesthetic -->
+    <path
+        android:strokeColor="#6366F1"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M38,38 L44,44 M70,38 L64,44 M38,70 L44,64 M70,70 L64,64" />
+
+    <!-- Central AI Core Chip (Rounded Square) -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M46,42 h16 c2.2,0 4,1.8 4,4 v16 c0,2.2 -1.8,4 -4,4 h-16 c-2.2,0 -4,-1.8 -4,-4 v-16 c0,-2.2 1.8,-4 4,-4 Z" />
+
+    <!-- AI Sparkle Core Emblem -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,46 L55.8,51.8 L61.5,54 L55.8,56.2 L54,62 L52.2,56.2 L46.5,54 L52.2,51.8 Z" />
+
+    <!-- Top Node (Phone) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,26 A5,5 0 1,1 53.9,26 Z" />
+
+    <!-- Bottom Node (Calendar) -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M54,72 A5,5 0 1,1 53.9,72 Z" />
+
+    <!-- Left Node (Messages) -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M26,49 A5,5 0 1,1 25.9,49 Z" />
+
+    <!-- Right Node (Browser & Files) -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M77,49 A5,5 0 1,1 76.9,49 Z" />
+</vector>

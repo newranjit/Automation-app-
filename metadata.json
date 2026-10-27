@@ -1,0 +1,6 @@
+{
+  "name": "MiniOS AI",
+  "description": "An on-device AI-powered personal phone operating system with unified conversational command center and integrated sub-apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
